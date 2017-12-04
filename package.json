@@ -1,0 +1,26 @@
+{
+  "name": "testing-warmup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "average.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amberjohnsonsmile/testing-warmup.git"
+  },
+  "author": "Amber Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amberjohnsonsmile/testing-warmup/issues"
+  },
+  "homepage": "https://github.com/amberjohnsonsmile/testing-warmup#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
