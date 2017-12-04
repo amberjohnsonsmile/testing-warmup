@@ -4,3 +4,7 @@
 function findAverage(array) {
 
 }
+
+module.exports = {
+    findAverage;
+}
